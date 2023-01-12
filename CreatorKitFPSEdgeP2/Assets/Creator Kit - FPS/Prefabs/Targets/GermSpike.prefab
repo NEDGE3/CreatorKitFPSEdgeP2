@@ -78,8 +78,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21572170bf3eef94dba3f7ca0f06525a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 25
-  pointValue: 30
+  health: 15
+  pointValue: 20
   DestroyedEffect: {fileID: 0}
   HitPlayer: {fileID: 4219996257582108180}
   IdleSource: {fileID: 4219996256583207751}
